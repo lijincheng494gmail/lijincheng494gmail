@@ -15,6 +15,20 @@ Earlier public applications include [peptide–protein docking](https://doi.org/
 
 The complete project map, publication boundaries and status notes are in the [RIEC research portfolio](https://github.com/lijincheng494gmail/riec-research-portfolio).
 
+## Documented research development
+
+The public portfolio also records the unsuccessful work that changed the
+programme. A September 2025 pre-RIEC submission showed that AI could rapidly
+produce a computationally complete pipeline without automatically producing
+stable evidence or defensible claims. A later Factory manuscript underwent a
+substantial cluster-aware and simulation-based revision but was rejected when
+independent industrial validation and component-level necessity remained
+unresolved. RIEC-BCI, RIEC-Core and RIEC-Agent were developed after that
+decision as distinct responses to evaluation-world, claim-authority and
+distributed-evidence problems.
+
+[Read the public-safe revision history and source register](https://github.com/lijincheng494gmail/riec-research-portfolio/blob/main/PEER_REVIEW_AND_REVISION_HISTORY.md).
+
 ## Working principle
 
 AI expands execution bandwidth; scientific direction, verification and responsibility remain human obligations. I use AI for implementation, language editing and artifact organization while retaining responsibility for the research question, protocol freezes, evidential boundaries, stop/go decisions and final claims.
