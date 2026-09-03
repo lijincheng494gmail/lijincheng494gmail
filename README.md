@@ -7,8 +7,8 @@ I study how analytical choices affect the authority of scientific conclusions. M
 ## Research trajectory
 
 - **RIEC-L1** — evidence-led conflict resolution within finite engineering model libraries. [Paper](https://doi.org/10.1016/j.array.2026.101097) · [Code](https://github.com/lijincheng494gmail/riec-l1-conflict-resolution)
-- **RIEC-BCI** — how evaluation worlds reshape apparent motor-imagery EEG pipeline performance and selection. Journal manuscript submitted after transfer; public preprint pending. [Repository](https://github.com/lijincheng494gmail/riec-bci)
-- **RIEC-Core** — a frozen protocol-to-claim governance architecture for heterogeneous research workflows. [Preprint](https://doi.org/10.2139/ssrn.7264499) · [Repository](https://github.com/lijincheng494gmail/riec-core)
+- **RIEC-BCI** — how evaluation worlds reshape apparent motor-imagery EEG pipeline performance and selection. Submission-tracking status: under review at *Array* as of 2 September 2026 (`ARRAY-D-26-05336`); public preprint pending. [Repository](https://github.com/lijincheng494gmail/riec-bci)
+- **RIEC-Core** — a frozen protocol-to-claim governance architecture for heterogeneous research workflows. A reframed manuscript has a submission-tracking status of under review at *Knowledge-Based Systems* as of 3 September 2026 (`KNOSYS-D-26-19947`); the earlier single-author SSRN preprint remains public. [Preprint](https://doi.org/10.2139/ssrn.7264499) · [Repository](https://github.com/lijincheng494gmail/riec-core)
 - **RIEC-Agent** — when locally compliant AI agents collectively exhaust shared evidence authority under adaptive search. [Preprint](https://doi.org/10.2139/ssrn.7298738) · [Repository](https://github.com/lijincheng494gmail/riec-agent)
 
 Earlier public applications include [peptide–protein docking](https://doi.org/10.2139/ssrn.7170499), [sustainability evidence tables](https://doi.org/10.2139/ssrn.6517459) and [factory digitalization](https://doi.org/10.2139/ssrn.6478802).
