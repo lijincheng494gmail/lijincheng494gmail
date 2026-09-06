@@ -13,6 +13,13 @@ I study how analytical choices affect the authority of scientific conclusions. M
 
 Earlier public applications include [peptide–protein docking](https://doi.org/10.2139/ssrn.7170499), [sustainability evidence tables](https://doi.org/10.2139/ssrn.6517459) and [factory digitalization](https://doi.org/10.2139/ssrn.6478802).
 
+An olive-oil deterioration manuscript also completed an approximately
+six-month *Applied Food Research* review in September 2026. Four of five
+reports treated it as acceptable or revisable, but the editor required new
+food-processing or real-system experimental evidence. I retain this as a
+useful boundary: methodological maturity does not substitute for the domain
+evidence expected by a specialist journal. [Public-safe review record](https://github.com/lijincheng494gmail/riec-research-portfolio/blob/main/review_history/AFR_CHANGE_MATRIX.md).
+
 The complete project map, publication boundaries and status notes are in the [RIEC research portfolio](https://github.com/lijincheng494gmail/riec-research-portfolio).
 
 ## Documented research development
